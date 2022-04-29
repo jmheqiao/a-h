@@ -10,11 +10,11 @@
             "value": "xxx"
         },
        "WEBDAV_AUTH_USER": {
-            "description": "Webdavw使用者名称",
+            "description": "Webdav使用者名称",
             "value":"admin"
        },
        "WEBDAV_AUTH_PASSWORD":{
-            "description": "Webdavw使用者密码",
+            "description": "Webdav密码",
             "value":"1234"
        }
     },
